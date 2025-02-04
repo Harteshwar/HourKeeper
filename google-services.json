@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067929500748",
+    "project_id": "hourkeeper-efda9",
+    "storage_bucket": "hourkeeper-efda9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067929500748:android:fec282059ef2af841d88e9",
+        "android_client_info": {
+          "package_name": "com.yourcompany.hourkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067929500748-c9i7bngfrcl1fnio071rueqnlo2me46v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKQY_AnlhbmRX8IqzzWe2v8KxC0CMQOzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067929500748-c9i7bngfrcl1fnio071rueqnlo2me46v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
